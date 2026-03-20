@@ -22,8 +22,7 @@ Tech: Java / Python
 - Tools: Git, GitHub, VS Code
 - Learning: DSA, Machine Learning
 
-##📈 Goals
-
+## 📈 Goals
 - Build smarter, real-world projects
 - Improve DSA to solve problems efficiently
 - Explore AI-powered applications
