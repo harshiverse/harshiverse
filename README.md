@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Harshita  
+### I'm Harshita  
 I build beginner-friendly apps and AI-powered tools using Python & Java.
 Currently working on: an AI expense tracker that reads receipts.
 
