@@ -21,7 +21,16 @@ Tech: Java / Python
 - Languages: Python, Java
 - Tools: Git, GitHub, VS Code
 - Learning: DSA, Machine Learning
-- 
+
+##📈 Goals
+
+- Build smarter, real-world projects
+- Improve DSA to solve problems efficiently
+- Explore AI-powered applications
+
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/harshita-mittal-6944b625b/
+Email: harshita.mittal72@gmail.com
 <!--
 **harshiverse/harshiverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
